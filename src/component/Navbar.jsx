@@ -69,7 +69,7 @@ const Navbar = () => {
           <MenuItem> Register</MenuItem>
           <MenuItem> SignIn</MenuItem>
           <MenuItem>
-          <Badge badgeContent={4} color="success">
+          <Badge badgeContent={3} color="success">
           <ShoppingCartOutlinedIcon/>
       </Badge> 
           </MenuItem>
